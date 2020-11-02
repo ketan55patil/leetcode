@@ -1,3 +1,7 @@
+# Roman to Integer conversion
+
+[![codecov](https://codecov.io/gh/ketan55patil/leetcode/tree/master/romanToInt/graph/badge.svg)](https://codecov.io/gh/ketan55patil/leetcode/tree/master/romanToInt)
+
 Roman numerals are represented by seven different symbols: `I`, `V`, `X`, `L`, `C`, `D` and `M`.
 
 Symbol | Value
