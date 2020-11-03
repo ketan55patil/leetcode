@@ -15,7 +15,7 @@ class TestLongestSubstring(unittest.TestCase):
             self.assertEqual(v, obj_ls.get_longest_substring())
 
 
-unittest.main()
-
+if __name__ == '__main__':
+    unittest.main()
 # to execute this run following in the terminal
 # pipenv run python test_first_unit_test.py
